@@ -20,6 +20,7 @@ router.get("/", async (req, res) => {
       .skip(page * perPage)
       .sort({ [sort]: reverse })
     res.json(data);
+    res.json(data);
   }
   catch (err) {
     console.log(err);
