@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "64229622073568668885db38"
+  },
+  "name": "koko akof",
+  "email": "koko@walla.com",
+  "birth_year": 1980,
+  "password": "$2b$10$qu6LB4EBL8gPbUXB1xAkiuMi0SwpcW3AjTZCxt5sQWmKCGLbv6jOG",
+  "role": "user",
+  "nickname": "king kong",
+  "favs_ar": [],
+  "date_created": {
+    "$date": "2023-03-28T07:24:18.943Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642297fa073568668885db3a"
+  },
+  "name": "admin boss",
+  "email": "admin@walla.com",
+  "birth_year": 1980,
+  "password": "$2b$10$v2cImokqzv9K3LC7Ud/Z..mK5ummxXR8.gao07n6BSYR8arwjuUZC",
+  "role": "admin",
+  "nickname": "the boss",
+  "favs_ar": [],
+  "date_created": {
+    "$date": "2023-03-28T07:32:10.119Z"
+  },
+  "__v": 0
+}]
